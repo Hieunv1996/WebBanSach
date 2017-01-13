@@ -1,0 +1,50 @@
+.blog {
+    height: 30px;
+    line-height: 30px;
+}
+
+.blog .container .topbar {
+    padding-left: 0px;
+}
+.left{
+    float: left;
+}
+.right{
+    float: right;
+}
+.clear{
+    clear: both;
+}
+.news p{
+    height: 150px;
+    overflow: hidden;
+    text-align: justify;
+}
+.news img{
+    margin-right: 20px;
+}
+.stylish-input-group .input-group-addon{
+    background: white !important; 
+}
+.stylish-input-group .form-control{
+	border-right:0; 
+	box-shadow:0 0 0; 
+	border-color:#ccc;
+}
+.stylish-input-group button{
+    border:0;
+    background:transparent;
+}
+.sidebar{
+    min-height: 1571px;
+    background: #f1f1f1;
+}
+.sidebar, .recent-post, .top-most{
+    margin-top: 30px;
+}
+.sidebar h4{
+    font-weight: bold;
+}
+.border-bottom{
+    border-bottom: 1px solid #eeeeee;
+}

@@ -1,0 +1,143 @@
+.text-right {
+    text-align: right;
+}
+
+.text-left {
+    text-align: left;
+}
+
+.cwhite {
+    color: white;
+}
+
+.inline-block {
+    display: inline-block;
+}
+
+.right {
+    float: right;
+}
+
+.left {
+    float: left;
+}
+
+.clear {
+    clear: both;
+}
+
+.bkmenu {
+    background: #27ae61;
+}
+
+.topbar {
+    line-height: 30px;
+    background: #f5f5f5;
+    height: 30px;
+}
+
+.logo .container {
+    line-height: 60px;
+}
+
+.menu ul li {
+    list-style-type: none;
+    display: inline-block;
+}
+
+.menu ul {
+    padding-left: 0px;
+}
+
+.menu ul li a {
+    text-transform: uppercase;
+    text-decoration: none;
+    padding: 0px 25px;
+    line-height: 50px;
+    display: block;
+    color: white;
+    font-weight: bold;
+}
+
+.menu .container {
+    height: 50px;
+}
+
+.menu ul li {
+    height: 100%;
+}
+
+.menu ul li a:hover {
+    background: #229955;
+}
+
+.cart {
+    margin-right: 25px;
+    border-radius: 40px;
+}
+
+.foot1 ul li {
+    list-style-type: none;
+}
+
+.textwidget ul {
+    padding-left: 0px;
+    margin-top: 20px;
+}
+
+ul.bks_icon_list li em {
+    border: 1px solid #27ae61;
+    border-radius: 50%;
+    color: #27ae61;
+    float: left;
+    font-size: 16px;
+    height: 38px;
+    margin-right: 12px;
+    padding-right: 2px;
+    padding-top: 10px;
+    text-align: center;
+    width: 38px;
+}
+
+.foot2 h4 {
+    margin-top: 0px;
+    font-weight: bold;
+}
+
+.footer .bks-copyright {
+    height: 60px;
+    background: #f5f5f5;
+    line-height: 60px;
+}
+
+.foot2 ul li {
+    margin-top: 15px;
+    list-style-type: circle;
+}
+
+.foot2 ul {
+    padding-left: 15px;
+}
+
+.foot4 h4 {
+    margin-top: 0px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.foot4 ul li {
+    list-style-type: none;
+    display: inline-block;
+    padding-top: 20px;
+    margin-right: 22px;
+}
+
+.foot4 ul {
+    text-align: center;
+    padding-left: 0px;
+    margin: auto;
+}
+
+.foot4 ul li .fa {
+    font-size: 30px;
+}
